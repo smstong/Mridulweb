@@ -15,7 +15,7 @@
 ### port_monitor.cfg ###
 * Column #1: FQDN or IPADDRESS of the target machine
 * Column #2: PORT Number of the target machine 
-* ALERT_COUNT = No of times the script will send the alert
+* Column #3: No of times the script will send the alert
 
 ### TRACKING and HISTORY ###
 * The script maintains an active tracker in /tmp/port_monitor.tracker
