@@ -4,9 +4,8 @@
 
 ### Requirements ###
 
-* You should have your own Telegram bot to use the script talert
-* Alternatively you could use your own talert script/program to customize how you would want to be alerted if a service is UP/DOWN
-
+* Any linux distribution running bash 
+* netcat/nc 
 
 ### How to use? ###
 * Update **port_monitor.cfg** with a list of services you would like to monitor
