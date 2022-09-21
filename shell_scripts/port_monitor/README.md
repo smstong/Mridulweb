@@ -11,7 +11,6 @@
 ### How to use? ###
 * Update **port_monitor.cfg** with a list of services you would like to monitor
 * Keep/Save **port_monitor.cfg** in the same directory as the main script **port_monitor** 
-* Keep/Save **z.functions** in the same same directory as the main script **port_monitor**
 * Run the script manually or via cron. Or any other regular to invoke this shell script
 
 ### port_monitor.cfg ###
